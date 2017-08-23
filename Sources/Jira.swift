@@ -16,6 +16,8 @@ public class Jira {
         case unableToCreateURL
     }
     
+    public init() {}
+    
     /** Gets Info From the Jira API 
      *
      *
